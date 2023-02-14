@@ -1,0 +1,15 @@
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.csproj.AssemblyReference.cache
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.AssemblyInfoInputs.cache
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.AssemblyInfo.cs
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/Desktop/task_sem/HW_task13/bin/Debug/net6.0/HW_task13
+/Users/hakimazisov/Desktop/task_sem/HW_task13/bin/Debug/net6.0/HW_task13.deps.json
+/Users/hakimazisov/Desktop/task_sem/HW_task13/bin/Debug/net6.0/HW_task13.runtimeconfig.json
+/Users/hakimazisov/Desktop/task_sem/HW_task13/bin/Debug/net6.0/HW_task13.dll
+/Users/hakimazisov/Desktop/task_sem/HW_task13/bin/Debug/net6.0/HW_task13.pdb
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.dll
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/refint/HW_task13.dll
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.pdb
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/HW_task13.genruntimeconfig.cache
+/Users/hakimazisov/Desktop/task_sem/HW_task13/obj/Debug/net6.0/ref/HW_task13.dll
